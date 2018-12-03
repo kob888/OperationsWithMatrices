@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FileAction.cs" />
+    <Compile Include="DirectoryManipulation.cs" />
+    <Compile Include="MatricesListFromFile.cs" />
+    <Compile Include="MatricesOperations.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
